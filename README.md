@@ -6,9 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<a href="https://github.com/nullwarelabs/nullwarelabs.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nullwarelabs-github-io-dark.svg"><img src="assets/project-nullwarelabs-github-io-light.svg" width="49%" alt="nullwarelabs.github.io"></picture></a>&nbsp;<a href="https://github.com/nullwarelabs/dia-dc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dia-dc-dark.svg"><img src="assets/project-dia-dc-light.svg" width="49%" alt="dia-dc"></picture></a>
-
-<a href="https://github.com/nullwarelabs/aether"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aether-dark.svg"><img src="assets/project-aether-light.svg" width="49%" alt="aether"></picture></a>
+<a href="https://github.com/nullwarelabs/nullwarelabs.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nullwarelabs-github-io-dark.svg"><img src="assets/project-nullwarelabs-github-io-light.svg" width="49%" alt="nullwarelabs.github.io"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
