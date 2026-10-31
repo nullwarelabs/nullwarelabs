@@ -1,19 +1,16 @@
 <p align="center">
-  <img src="./assets/glassmorphism-hero.svg" alt="{{name}} — studio portrait" width="100%" />
+  <img src="./assets/glassmorphism-hero.svg" alt="nullware — independent developer" width="100%" />
 </p>
 
 ### approach
 
-{{approach_paragraph}}
+I build minimalist utilities with sharp design for Windows, Android and Telegram. Every tool does one job well: local-first, fast, zero-telemetry and no clutter. Beyond code I do web design, 3D modeling, cover art and photo editing.
 
-### selected case studies
+### selected projects
 
-- [{{case_one_name}}]({{case_one_url}}) — {{case_one_outcome}}
-- [{{case_two_name}}]({{case_two_url}}) — {{case_two_outcome}}
-- [{{case_three_name}}]({{case_three_url}}) — {{case_three_outcome}}
+- [SwiftService](https://nullwarelabs.github.io/#projects) — Windows cleanup, registry repair and network tuning, 100% local
+- [Exolute Converter](https://play.google.com/store/apps/details?id=com.saieesoft.exolute) — Android currency converter with offline mode and rate history
+- [@AskAnonymousBot](https://t.me/AskAnonymousBot) — anonymous questions and replies inside Telegram, no message storage
+- [@VaultysBot](https://t.me/VaultysBot) — alerts on edited and deleted messages, saves view-once media
 
-### writing & talks
-
-[`{{essay_one}}`]({{essay_one_url}}) · [`{{talk_one}}`]({{talk_one_url}})
-
-— for project enquiries: [{{email}}](mailto:{{email}})
+— for project enquiries: [nullwarelabs@duck.com](mailto:nullwarelabs@duck.com) · [Telegram @nullwr](https://t.me/nullwr) · [nullwarelabs.github.io](https://nullwarelabs.github.io)
